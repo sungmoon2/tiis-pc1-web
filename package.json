@@ -1,0 +1,17 @@
+{
+  "name": "tiis-pc1-web",
+  "version": "1.0.0-clean.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Sungmoon Park <qkrtjdans4145@gmail.com>",
+  "engines": {
+    "node": "18.20.8"
+  },
+  "dependencies": {
+    "@hyperledger/fabric-gateway": "1.7.1",
+    "@grpc/grpc-js": "1.12.7",
+    "@hyperledger/fabric-protos": "0.3.7",
+    "pg": "8.13.1",
+    "@redis/client": "1.6.0"
+  }
+}
